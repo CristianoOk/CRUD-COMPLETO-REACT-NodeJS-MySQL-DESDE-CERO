@@ -1,0 +1,11 @@
+EN LA CARPETA "server", TUVE QUE INSTALAR "npm install cors" 'CAUSE ME SALIA UN ERROR. CHATGPT ME DIJO: El error que estás viendo está relacionado con la política de CORS (Cross-Origin Resource Sharing). Este problema ocurre cuando el servidor al que intentas hacer la solicitud no permite que se realicen solicitudes desde un dominio diferente al suyo.
+
+Para resolver este problema, debes asegurarte de que tu servidor backend (en este caso, el que corre en localhost:3001) permita solicitudes desde tu frontend (que corre en localhost:3000). 
+
+
+
+En la app de 'react', en la terminal ejecuté "npm install react-bootstrap bootstrap" para poder usar 'bootstrap'.
+En la app de 'react', en la terminal ejecuté "npm i sweetalert2" para usar cartelitos de mensajes repiolas lol.
+
+
+TUTORIAL DE YOUTUBE: https://www.youtube.com/watch?v=U1u2jNYXmBw (CRUD COMPLETO #REACT#NodeJS #MySQL DESDE CEROS - 2024)
